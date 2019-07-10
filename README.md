@@ -1,0 +1,2 @@
+# WebTemplate
+Django Starter Template
